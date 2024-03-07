@@ -145,3 +145,12 @@ body{
         display: none;
     }
 }
+footer{
+    text-align: center;
+    font-size: 18px;
+}
+.link{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+}
